@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+  "type": "git",
+    "url": "git+https://github.com/sukey2008/check-random.git"
+},
   "keywords": [],
   "author": "",
   "license": "ISC"
